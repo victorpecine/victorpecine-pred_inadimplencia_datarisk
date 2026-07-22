@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+mlflow/*
+data/X.csv
+.gitignore
+data/df_treino.csv

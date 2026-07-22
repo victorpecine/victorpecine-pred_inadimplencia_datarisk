@@ -8,6 +8,8 @@ nbformat==5.10.4
 scikit-learn==1.7.2
 statsmodels==0.14.6
 statstests==1.0.9
+scipy==1.18.0
+shap==0.52.0
 
 xgboost==3.2.0
 
