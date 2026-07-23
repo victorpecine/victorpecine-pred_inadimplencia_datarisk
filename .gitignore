@@ -218,6 +218,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 mlflow/*
+mlruns/*
 data/X.csv
 .gitignore
 data/df_treino.csv
+data/y_treino.csv
+mlflow.db
