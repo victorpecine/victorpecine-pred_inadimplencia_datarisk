@@ -2,16 +2,16 @@ numpy==2.3.3
 pandas==2.3.3
 
 matplotlib==3.11.1
+seaborn==0.13.2
 plotly==6.9.0
-nbformat==5.10.4
 
 scikit-learn==1.7.2
+scipy==1.16.3
 statsmodels==0.14.6
-statstests==1.0.9
-scipy==1.18.0
-shap==0.52.0
 
 xgboost==3.2.0
+shap==0.51.0
 
 ipykernel==6.30.1
+nbformat==5.10.4
 ipywidgets==8.1.8

@@ -224,3 +224,6 @@ data/X.csv
 data/df_treino.csv
 data/y_treino.csv
 mlflow.db
+data/base_cadast_encoded.csv
+data/df_base_info_tratado.csv
+data/df_base_pagamentos_tratado.csv
